@@ -1,0 +1,7 @@
+C:\FitBank\AplicationMobile\AppTeste\AppTeste\AppTeste\bin\Debug\netstandard2.0\AppTeste.deps.json
+C:\FitBank\AplicationMobile\AppTeste\AppTeste\AppTeste\bin\Debug\netstandard2.0\AppTeste.dll
+C:\FitBank\AplicationMobile\AppTeste\AppTeste\AppTeste\obj\Debug\netstandard2.0\AppTeste.csprojAssemblyReference.cache
+C:\FitBank\AplicationMobile\AppTeste\AppTeste\AppTeste\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\FitBank\AplicationMobile\AppTeste\AppTeste\AppTeste\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\FitBank\AplicationMobile\AppTeste\AppTeste\AppTeste\obj\Debug\netstandard2.0\AppTeste.AssemblyInfoInputs.cache
+C:\FitBank\AplicationMobile\AppTeste\AppTeste\AppTeste\obj\Debug\netstandard2.0\AppTeste.AssemblyInfo.cs
