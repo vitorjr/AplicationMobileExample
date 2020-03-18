@@ -5,3 +5,9 @@ C:\FitBank\AplicationMobile\AppTeste\AppTeste\AppTeste\obj\Debug\netstandard2.0\
 C:\FitBank\AplicationMobile\AppTeste\AppTeste\AppTeste\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
 C:\FitBank\AplicationMobile\AppTeste\AppTeste\AppTeste\obj\Debug\netstandard2.0\AppTeste.AssemblyInfoInputs.cache
 C:\FitBank\AplicationMobile\AppTeste\AppTeste\AppTeste\obj\Debug\netstandard2.0\AppTeste.AssemblyInfo.cs
+C:\FitBank\AplicationMobile\AppTeste\AppTeste\AppTeste\bin\Debug\netstandard2.0\ref\AppTeste.dll
+C:\FitBank\AplicationMobile\AppTeste\AppTeste\AppTeste\bin\Debug\netstandard2.0\AppTeste.pdb
+C:\FitBank\AplicationMobile\AppTeste\AppTeste\AppTeste\obj\Debug\netstandard2.0\XamlC.stamp
+C:\FitBank\AplicationMobile\AppTeste\AppTeste\AppTeste\obj\Debug\netstandard2.0\AppTeste.dll
+C:\FitBank\AplicationMobile\AppTeste\AppTeste\AppTeste\obj\Debug\netstandard2.0\ref\AppTeste.dll
+C:\FitBank\AplicationMobile\AppTeste\AppTeste\AppTeste\obj\Debug\netstandard2.0\AppTeste.pdb
